@@ -1,10 +1,10 @@
 # Clustering
 This folder contains all the python notebook used to learn clustering. The topic covered are: 
-1. K-Means: 
+1. K-Means:</br>
   Customer Segmentation example is used to understand the K-Means clustering.
-2. Hierarchical Clustering
+2. Hierarchical Clustering</br>
   Clustering on Vehicle dataset using Hierarchical Clustering
-3. Density-based spatial clustering
+3. Density-based spatial clustering</br>
   Weather Station Clustering using DBSCAN & scikit-learn
 
 
