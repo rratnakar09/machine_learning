@@ -9,7 +9,7 @@ This folder contains all the python notebook used to learn clustering. The topic
 
 
 
-Resource: 
-NPTEL: https://nptel.ac.in/courses/106106139/
-cognitiveclass.ai: https://cognitiveclass.ai/courses/machine-learning-with-python
+Resource:</br>
+NPTEL: https://nptel.ac.in/courses/106106139/ </br>
+cognitiveclass.ai: https://cognitiveclass.ai/courses/machine-learning-with-python </br>
 Notes: Machine Learning with Python_week4.pdf created with materials given on cognitive class course.
