@@ -36,6 +36,7 @@ kaggle data link: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 Resource:</br>
 NPTEL: https://nptel.ac.in/courses/106106139/ </br>
+Coursera: https://www.coursera.org/learn/machine-learning-with-python</br>
 cognitiveclass.ai: https://cognitiveclass.ai/courses/machine-learning-with-python </br>
 Notes: </br>
 Machine Learning with Python_week2.pdf</br>
